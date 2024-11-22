@@ -102,14 +102,6 @@ button:hover {
 button:active {
     background-color: #ccc;
 }
-
-
-
-
-
-
-
-//JS code
 // script.js
 let currentInput = '';
 let previousInput = '';
@@ -176,5 +168,3 @@ function clearDisplay() {
     operator = null;
     display.value = '';
 }
-
-
