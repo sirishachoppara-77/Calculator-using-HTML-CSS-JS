@@ -40,6 +40,13 @@
 </body>
 </html>
 
+
+
+
+
+
+
+
 //CSS CODE
 /* style.css */
 body {
@@ -95,6 +102,13 @@ button:hover {
 button:active {
     background-color: #ccc;
 }
+
+
+
+
+
+
+
 //JS code
 // script.js
 let currentInput = '';
